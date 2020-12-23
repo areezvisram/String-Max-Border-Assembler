@@ -7,8 +7,9 @@
 - Within a command window that has NASM installed, run the command `make all` or `make fproj`
 - A bash executable called `fproj` will be compiled and created
 - To run the program execute the command: `fproj 'string'` with 'string' being the string you want to calculate the max border of
-- In the command window, you will see the input string, the max border array, and the max border array as a bar chart:__
+- In the command window, you will see the input string, the max border array, and the max border array as a bar chart:
 ![Max Border Example](https://github.com/areezvisram/String-Max-Border-Assembler/blob/master/Example.PNG)
+
 ### Theory:
 - The border of a string `x[0...n-1]` of length `n` is a substring `x[0...k]`, `0 = k < n - 1` such that `x[0...k] = x[n-k...n-1`
 - i.e, the border of a string is a substring of the string that is simultaneously a prefix and suffix of the string
