@@ -8,7 +8,7 @@
 - A bash executable called `fproj` will be compiled and created
 - To run the program execute the command: `fproj 'string'` with 'string' being the string you want to calculate the max border of
 - In the command window, you will see the input string, the max border array, and the max border array as a bar chart:
-<br />
+
 ![Max Border Example](https://github.com/areezvisram/String-Max-Border-Assembler/blob/master/Example.PNG)
 
 ### Theory:
